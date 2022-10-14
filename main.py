@@ -1,1 +1,1 @@
-print('Brotha... we live in a world... full of magic')
+print('... Oh yeah!')
